@@ -1,0 +1,19 @@
+{
+    "name": "resturant",
+    "version": "1.0.0",
+    "description": "a nuxt resturant",
+    "author": "4arabdevelopers",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/toast": "^3.3.1",
+        "axios": "^0.21.1",
+        "nuxt": "^2.0.0"
+    },
+    "devDependencies": {}
+}
