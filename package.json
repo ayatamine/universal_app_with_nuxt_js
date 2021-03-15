@@ -15,5 +15,8 @@
         "axios": "^0.21.1",
         "nuxt": "^2.0.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "engines": {
+        "node": "v12.18.0"
+    }
 }
