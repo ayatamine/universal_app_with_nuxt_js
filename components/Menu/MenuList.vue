@@ -12,7 +12,7 @@
     </div>
 </template>
 <script>
-import MenuItem from "~/components/Menu/Menuitem.vue"
+import MenuItem from "../Menu/MenuItem"
 
 export default {
  components: {
