@@ -1,6 +1,6 @@
-# resturant
+# Nuxt Resturant for JavaScripters 
 
-> a nuxt resturant
+> a nuxt js resturant project built with nuxt js on a full tutorial available on my channel 
 
 ## Build Setup
 
@@ -18,5 +18,5 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
+#Please support the project by Starring it
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
